@@ -10,7 +10,7 @@ A clean and stylish login page created with HTML and CSS. The page features:
 
 ## 🔍 Preview
 
-![imgage alt]()
+![imgage alt](https://github.com/RajatSW/login_page1/blob/3ff1da76da71ca2af5d789d31f32bd05f239af57/login_page1.png)
 
 ## 🚀 Features
 - Username and Password fields
