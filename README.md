@@ -9,7 +9,7 @@ A clean and stylish login page created with HTML and CSS. The page features:
 - Subtle animations and interactive UI effects
 
 ## 🔍 Preview
-![Preview](It'll will be presented soon)
+
 
 ## 🚀 Features
 - Username and Password fields
